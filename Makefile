@@ -1,0 +1,1 @@
+yul-compile: solc --strict-assembly --optimize --optimize-runs 2000 ./yul/HorseStoreYul.yul --bin
